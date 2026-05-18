@@ -1,0 +1,74 @@
+2026-05-13 15:43:58,474 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:43:58,481 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:43:58,502 - WARNING -  * Debugger is active!
+2026-05-13 15:43:58,509 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:44:14,027 - INFO -  * Detected change in 'C:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\database.py', reloading
+2026-05-13 15:44:14,728 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:44:14,738 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:44:14,756 - WARNING -  * Debugger is active!
+2026-05-13 15:44:14,756 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:44:41,649 - INFO -  * Detected change in 'C:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-13 15:44:42,266 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:44:42,273 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:44:42,294 - WARNING -  * Debugger is active!
+2026-05-13 15:44:42,294 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:44:44,926 - INFO -  * Detected change in 'C:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-13 15:44:45,596 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:44:45,599 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:44:45,620 - WARNING -  * Debugger is active!
+2026-05-13 15:44:45,620 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:44:51,342 - INFO -  * Detected change in 'C:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-13 15:44:52,022 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:44:52,040 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:44:52,057 - WARNING -  * Debugger is active!
+2026-05-13 15:44:52,063 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:44:54,855 - INFO -  * Detected change in 'C:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-13 15:44:55,549 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:44:55,556 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:44:55,577 - WARNING -  * Debugger is active!
+2026-05-13 15:44:55,584 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:45:08,485 - INFO -  * Detected change in 'C:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-13 15:45:09,103 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:47:05,283 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:53:37,476 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:53:37,490 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:53:37,518 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-13 15:53:37,519 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-13 15:53:37,520 - INFO -  * Restarting with stat
+2026-05-13 15:53:38,039 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:53:38,053 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:53:38,071 - WARNING -  * Debugger is active!
+2026-05-13 15:53:38,075 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:54:09,426 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:54:09,440 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:54:09,474 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-13 15:54:09,474 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-13 15:54:09,474 - INFO -  * Restarting with stat
+2026-05-13 15:54:10,051 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:54:10,057 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:54:10,072 - WARNING -  * Debugger is active!
+2026-05-13 15:54:10,081 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:54:38,200 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:54:49,261 - INFO - \u2713 Database initialized successfully
+2026-05-14 09:19:39,795 - INFO - \u2713 Database initialized successfully
+2026-05-14 09:19:39,822 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 09:19:39,871 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-14 09:19:39,876 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-14 09:19:39,879 - INFO -  * Restarting with stat
+2026-05-14 09:19:40,694 - INFO - \u2713 Database initialized successfully
+2026-05-14 09:19:40,712 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 09:19:40,736 - WARNING -  * Debugger is active!
+2026-05-14 09:19:40,743 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 15:36:56,664 - INFO - \u2713 Database initialized successfully
+2026-05-14 15:36:56,684 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 15:36:56,782 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-14 15:36:56,782 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-14 15:36:56,784 - INFO -  * Restarting with stat
+2026-05-14 15:36:57,315 - INFO - \u2713 Database initialized successfully
+2026-05-14 15:36:57,331 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 15:36:57,349 - WARNING -  * Debugger is active!
+2026-05-14 15:36:57,354 - INFO -  * Debugger PIN: 135-961-674

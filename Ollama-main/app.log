@@ -1,0 +1,804 @@
+2026-05-13 15:43:58,474 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:43:58,481 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:43:58,502 - WARNING -  * Debugger is active!
+2026-05-13 15:43:58,502 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:44:14,020 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\database.py', reloading
+2026-05-13 15:44:14,721 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:44:14,735 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:44:14,749 - WARNING -  * Debugger is active!
+2026-05-13 15:44:14,756 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:44:41,579 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-13 15:44:42,218 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:44:42,227 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:44:42,238 - WARNING -  * Debugger is active!
+2026-05-13 15:44:42,246 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:44:44,981 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-13 15:44:45,634 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:44:45,634 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:44:45,661 - WARNING -  * Debugger is active!
+2026-05-13 15:44:45,662 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:44:51,494 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-13 15:44:52,161 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:44:52,175 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:44:52,189 - WARNING -  * Debugger is active!
+2026-05-13 15:44:52,196 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:44:55,070 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-13 15:44:55,748 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:44:55,758 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:44:55,778 - WARNING -  * Debugger is active!
+2026-05-13 15:44:55,778 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:45:08,569 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-13 15:45:09,166 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:49:14,952 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:49:20,759 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:52:13,412 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:52:13,423 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:52:13,448 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-13 15:52:13,448 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-13 15:52:13,448 - INFO -  * Restarting with stat
+2026-05-13 15:52:14,008 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:52:14,021 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:52:14,036 - WARNING -  * Debugger is active!
+2026-05-13 15:52:14,036 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:52:28,895 - INFO - 127.0.0.1 - - [13/May/2026 15:52:28] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-13 15:52:28,928 - INFO - 127.0.0.1 - - [13/May/2026 15:52:28] "GET /login?next=/ HTTP/1.1" 200 -
+2026-05-13 15:52:42,670 - INFO - Login attempt: email=daniel.b.symonds@gmail.com
+2026-05-13 15:52:42,692 - INFO - 127.0.0.1 - - [13/May/2026 15:52:42] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2026-05-13 15:52:42,818 - INFO - 127.0.0.1 - - [13/May/2026 15:52:42] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2026-05-13 15:52:42,829 - INFO - 127.0.0.1 - - [13/May/2026 15:52:42] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2026-05-13 15:52:42,852 - INFO - 127.0.0.1 - - [13/May/2026 15:52:42] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=LbfVdlveYJRVlnwa1ukn HTTP/1.1" 200 -
+2026-05-13 15:52:42,884 - INFO - 127.0.0.1 - - [13/May/2026 15:52:42] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2026-05-13 15:53:28,186 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\database.py', reloading
+2026-05-13 15:53:28,256 - INFO -  * Restarting with stat
+2026-05-13 15:53:28,816 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:53:28,829 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:53:28,846 - WARNING -  * Debugger is active!
+2026-05-13 15:53:28,846 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:53:32,950 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\database.py', reloading
+2026-05-13 15:53:32,991 - INFO -  * Restarting with stat
+2026-05-13 15:53:33,577 - INFO - \u2713 Database initialized successfully
+2026-05-13 15:53:33,592 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 15:53:33,612 - WARNING -  * Debugger is active!
+2026-05-13 15:53:33,612 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 15:54:03,659 - INFO - Login attempt: email=daniel.b.symonds@gmail.com
+2026-05-13 15:54:03,763 - INFO - 127.0.0.1 - - [13/May/2026 15:54:03] "POST /login HTTP/1.1" 200 -
+2026-05-13 15:54:26,917 - INFO - Login attempt: email=daniel.b.symonds@gmail.com
+2026-05-13 15:54:27,024 - INFO - User logged in: daniel.b.symonds@gmail.com
+2026-05-13 15:54:27,027 - INFO - 127.0.0.1 - - [13/May/2026 15:54:27] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-05-13 15:54:27,062 - INFO - 127.0.0.1 - - [13/May/2026 15:54:27] "GET / HTTP/1.1" 200 -
+2026-05-13 15:54:27,089 - INFO - 127.0.0.1 - - [13/May/2026 15:54:27] "GET /conversations HTTP/1.1" 200 -
+2026-05-13 15:58:01,097 - INFO - New conversation created: 1 for user daniel.b.symonds@gmail.com
+2026-05-13 15:58:01,103 - INFO - 127.0.0.1 - - [13/May/2026 15:58:01] "POST /conversation HTTP/1.1" 200 -
+2026-05-13 15:58:01,125 - INFO - 127.0.0.1 - - [13/May/2026 15:58:01] "GET /conversations HTTP/1.1" 200 -
+2026-05-13 15:58:12,331 - INFO - Chat request from daniel.b.symonds@gmail.com: hello how was your day gemma...
+2026-05-13 15:58:32,300 - INFO - 127.0.0.1 - - [13/May/2026 15:58:32] "GET /conversation/1 HTTP/1.1" 200 -
+2026-05-13 15:58:33,737 - INFO - 127.0.0.1 - - [13/May/2026 15:58:33] "GET /conversation/1 HTTP/1.1" 200 -
+2026-05-13 15:58:33,947 - INFO - 127.0.0.1 - - [13/May/2026 15:58:33] "GET /conversation/1 HTTP/1.1" 200 -
+2026-05-13 15:58:34,327 - INFO - 127.0.0.1 - - [13/May/2026 15:58:34] "GET /conversation/1 HTTP/1.1" 200 -
+2026-05-13 15:58:34,544 - INFO - 127.0.0.1 - - [13/May/2026 15:58:34] "GET /conversation/1 HTTP/1.1" 200 -
+2026-05-13 15:58:37,712 - INFO - Chat request from daniel.b.symonds@gmail.com: hello...
+2026-05-13 15:58:44,405 - ERROR - Ollama API timeout
+2026-05-13 15:58:44,407 - INFO - 127.0.0.1 - - [13/May/2026 15:58:44] "[35m[1mPOST /chat HTTP/1.1[0m" 504 -
+2026-05-13 15:58:45,069 - INFO - 127.0.0.1 - - [13/May/2026 15:58:45] "POST /chat HTTP/1.1" 200 -
+2026-05-13 15:58:53,052 - INFO - Chat request from daniel.b.symonds@gmail.com: how was your day?...
+2026-05-13 15:59:12,059 - INFO - 127.0.0.1 - - [13/May/2026 15:59:12] "POST /chat HTTP/1.1" 200 -
+2026-05-13 15:59:27,331 - INFO - Chat request from daniel.b.symonds@gmail.com: it was a good day what is 1+1...
+2026-05-13 15:59:42,634 - INFO - 127.0.0.1 - - [13/May/2026 15:59:42] "POST /chat HTTP/1.1" 200 -
+2026-05-13 16:00:00,085 - INFO - Chat request from daniel.b.symonds@gmail.com: how many months of the year have the letter x in t...
+2026-05-13 16:00:20,334 - INFO - 127.0.0.1 - - [13/May/2026 16:00:20] "POST /chat HTTP/1.1" 200 -
+2026-05-13 16:01:22,392 - INFO - \u2713 Database initialized successfully
+2026-05-13 16:01:22,404 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 16:01:22,448 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-13 16:01:22,448 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-13 16:01:22,448 - INFO -  * Restarting with stat
+2026-05-13 16:01:23,013 - INFO - \u2713 Database initialized successfully
+2026-05-13 16:01:23,023 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-13 16:01:23,037 - WARNING -  * Debugger is active!
+2026-05-13 16:01:23,041 - INFO -  * Debugger PIN: 135-961-674
+2026-05-13 16:01:45,985 - INFO - 127.0.0.1 - - [13/May/2026 16:01:45] "GET / HTTP/1.1" 200 -
+2026-05-13 16:01:46,083 - INFO - 127.0.0.1 - - [13/May/2026 16:01:46] "GET /conversations HTTP/1.1" 200 -
+2026-05-13 16:01:52,201 - INFO - 127.0.0.1 - - [13/May/2026 16:01:52] "GET /conversation/3 HTTP/1.1" 200 -
+2026-05-13 16:01:53,925 - INFO - Conversation 3 deleted by user daniel.b.symonds@gmail.com
+2026-05-13 16:01:53,928 - INFO - 127.0.0.1 - - [13/May/2026 16:01:53] "DELETE /conversation/3 HTTP/1.1" 200 -
+2026-05-13 16:01:53,947 - INFO - 127.0.0.1 - - [13/May/2026 16:01:53] "GET /conversations HTTP/1.1" 200 -
+2026-05-13 16:01:56,599 - INFO - Conversation 4 deleted by user daniel.b.symonds@gmail.com
+2026-05-13 16:01:56,602 - INFO - 127.0.0.1 - - [13/May/2026 16:01:56] "DELETE /conversation/4 HTTP/1.1" 200 -
+2026-05-13 16:01:56,624 - INFO - 127.0.0.1 - - [13/May/2026 16:01:56] "GET /conversations HTTP/1.1" 200 -
+2026-05-13 16:01:58,735 - INFO - 127.0.0.1 - - [13/May/2026 16:01:58] "GET /conversation/2 HTTP/1.1" 200 -
+2026-05-13 16:02:02,361 - INFO - Conversation 2 deleted by user daniel.b.symonds@gmail.com
+2026-05-13 16:02:02,364 - INFO - 127.0.0.1 - - [13/May/2026 16:02:02] "DELETE /conversation/2 HTTP/1.1" 200 -
+2026-05-13 16:02:02,385 - INFO - 127.0.0.1 - - [13/May/2026 16:02:02] "GET /conversations HTTP/1.1" 200 -
+2026-05-13 16:02:05,648 - INFO - Conversation 1 deleted by user daniel.b.symonds@gmail.com
+2026-05-13 16:02:05,652 - INFO - 127.0.0.1 - - [13/May/2026 16:02:05] "DELETE /conversation/1 HTTP/1.1" 200 -
+2026-05-13 16:02:05,674 - INFO - 127.0.0.1 - - [13/May/2026 16:02:05] "GET /conversations HTTP/1.1" 200 -
+2026-05-13 16:02:08,506 - INFO - Conversation 5 deleted by user daniel.b.symonds@gmail.com
+2026-05-13 16:02:08,508 - INFO - 127.0.0.1 - - [13/May/2026 16:02:08] "DELETE /conversation/5 HTTP/1.1" 200 -
+2026-05-13 16:02:08,529 - INFO - 127.0.0.1 - - [13/May/2026 16:02:08] "GET /conversations HTTP/1.1" 200 -
+2026-05-13 16:02:10,939 - INFO - Conversation 6 deleted by user daniel.b.symonds@gmail.com
+2026-05-13 16:02:10,943 - INFO - 127.0.0.1 - - [13/May/2026 16:02:10] "DELETE /conversation/6 HTTP/1.1" 200 -
+2026-05-13 16:02:10,964 - INFO - 127.0.0.1 - - [13/May/2026 16:02:10] "GET /conversations HTTP/1.1" 200 -
+2026-05-13 16:02:32,616 - INFO - Chat request from daniel.b.symonds@gmail.com: hi gemma can you please tell me what is happening ...
+2026-05-13 16:03:04,688 - ERROR - Ollama API timeout
+2026-05-13 16:03:04,688 - INFO - 127.0.0.1 - - [13/May/2026 16:03:04] "[35m[1mPOST /chat HTTP/1.1[0m" 504 -
+2026-05-13 16:03:47,797 - INFO - Chat request from daniel.b.symonds@gmail.com: are you able to write me a petal paragraph on M.T ...
+2026-05-13 16:04:19,834 - ERROR - Ollama API timeout
+2026-05-13 16:04:19,835 - INFO - 127.0.0.1 - - [13/May/2026 16:04:19] "[35m[1mPOST /chat HTTP/1.1[0m" 504 -
+2026-05-13 16:04:32,091 - INFO - Chat request from daniel.b.symonds@gmail.com: hello...
+2026-05-13 16:04:35,505 - INFO - 127.0.0.1 - - [13/May/2026 16:04:35] "POST /chat HTTP/1.1" 200 -
+2026-05-13 16:04:49,443 - INFO - Chat request from daniel.b.symonds@gmail.com: do you know how to write a petal paragraph?...
+2026-05-13 16:05:21,501 - ERROR - Ollama API timeout
+2026-05-13 16:05:21,503 - INFO - 127.0.0.1 - - [13/May/2026 16:05:21] "[35m[1mPOST /chat HTTP/1.1[0m" 504 -
+2026-05-14 08:46:29,104 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:46:29,113 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:46:29,128 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:46:29,146 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:46:29,146 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:46:29,146 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:46:29,253 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-14 08:46:29,253 - INFO - [33mPress CTRL+C to quit[0m
+elopment server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-14 08:46:29,253 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-14 08:46:29,266 - INFO -  * Restarting with stat
+2026-05-14 08:46:29,266 - INFO -  * Restarting with stat
+2026-05-14 08:46:29,266 - INFO -  * Restarting with stat
+2026-05-14 08:46:29,762 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:46:29,769 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:46:29,769 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:46:29,777 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:46:29,782 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:46:29,786 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:46:29,789 - WARNING -  * Debugger is active!
+2026-05-14 08:46:29,789 - WARNING -  * Debugger is active!
+2026-05-14 08:46:29,802 - WARNING -  * Debugger is active!
+2026-05-14 08:46:29,802 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 08:46:29,802 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 08:46:40,115 - INFO - 127.0.0.1 - - [14/May/2026 08:46:40] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-14 08:46:40,211 - INFO - 127.0.0.1 - - [14/May/2026 08:46:40] "GET /login?next=/ HTTP/1.1" 200 -
+2026-05-14 08:46:40,769 - INFO - 127.0.0.1 - - [14/May/2026 08:46:40] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 08:46:55,455 - INFO - Login attempt: email=daniel.b.symonds@gmail.com
+2026-05-14 08:46:55,579 - INFO - User logged in: daniel.b.symonds@gmail.com
+2026-05-14 08:46:55,579 - INFO - 127.0.0.1 - - [14/May/2026 08:46:55] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-05-14 08:46:55,745 - INFO - 127.0.0.1 - - [14/May/2026 08:46:55] "GET / HTTP/1.1" 200 -
+2026-05-14 08:46:55,765 - INFO - 127.0.0.1 - - [14/May/2026 08:46:55] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 08:46:59,612 - INFO - Conversation 10 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 08:46:59,612 - INFO - 127.0.0.1 - - [14/May/2026 08:46:59] "DELETE /conversation/10 HTTP/1.1" 200 -
+2026-05-14 08:46:59,682 - INFO - 127.0.0.1 - - [14/May/2026 08:46:59] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 08:47:02,700 - INFO - Conversation 8 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 08:47:02,711 - INFO - 127.0.0.1 - - [14/May/2026 08:47:02] "DELETE /conversation/8 HTTP/1.1" 200 -
+2026-05-14 08:47:02,789 - INFO - 127.0.0.1 - - [14/May/2026 08:47:02] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 08:47:05,398 - INFO - Conversation 7 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 08:47:05,406 - INFO - 127.0.0.1 - - [14/May/2026 08:47:05] "DELETE /conversation/7 HTTP/1.1" 200 -
+2026-05-14 08:47:05,423 - INFO - 127.0.0.1 - - [14/May/2026 08:47:05] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 08:47:08,704 - INFO - Conversation 9 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 08:47:08,707 - INFO - 127.0.0.1 - - [14/May/2026 08:47:08] "DELETE /conversation/9 HTTP/1.1" 200 -
+2026-05-14 08:47:08,737 - INFO - 127.0.0.1 - - [14/May/2026 08:47:08] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 08:52:24,648 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\database.py', reloading
+2026-05-14 08:52:24,716 - INFO -  * Restarting with stat
+2026-05-14 08:52:24,727 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\database.py', reloading
+2026-05-14 08:52:24,791 - INFO -  * Restarting with stat
+2026-05-14 08:52:24,965 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\database.py', reloading
+2026-05-14 08:52:25,065 - INFO -  * Restarting with stat
+2026-05-14 08:52:25,771 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:52:25,771 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:52:25,791 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:52:25,798 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:52:25,847 - WARNING -  * Debugger is active!
+2026-05-14 08:52:25,848 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 08:52:25,848 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 08:52:25,881 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:52:25,900 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:52:25,915 - WARNING -  * Debugger is active!
+2026-05-14 08:52:25,915 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 08:52:29,397 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\database.py', reloading
+2026-05-14 08:52:29,413 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\database.py', reloading
+2026-05-14 08:52:29,440 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\database.py', reloading
+2026-05-14 08:52:29,484 - INFO -  * Restarting with stat
+2026-05-14 08:52:29,499 - INFO -  * Restarting with stat
+2026-05-14 08:52:29,519 - INFO -  * Restarting with stat
+2026-05-14 08:52:30,257 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:52:30,257 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:52:30,257 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:52:30,273 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:52:30,273 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:52:30,277 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:52:30,297 - WARNING -  * Debugger is active!
+2026-05-14 08:52:30,297 - WARNING -  * Debugger is active!
+2026-05-14 08:52:30,297 - WARNING -  * Debugger is active!
+2026-05-14 08:52:30,305 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 08:52:30,305 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 08:52:30,305 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 08:52:51,486 - INFO - 127.0.0.1 - - [14/May/2026 08:52:51] "GET / HTTP/1.1" 200 -
+2026-05-14 08:52:51,550 - INFO - 127.0.0.1 - - [14/May/2026 08:52:51] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 08:55:13,234 - INFO - 127.0.0.1 - - [14/May/2026 08:55:13] "GET / HTTP/1.1" 200 -
+2026-05-14 08:55:13,281 - INFO - 127.0.0.1 - - [14/May/2026 08:55:13] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 08:55:23,512 - INFO - Chat request from daniel.b.symonds@gmail.com: hello...
+2026-05-14 08:55:55,562 - ERROR - Ollama API timeout
+2026-05-14 08:55:55,576 - INFO - 127.0.0.1 - - [14/May/2026 08:55:55] "[35m[1mPOST /chat HTTP/1.1[0m" 504 -
+2026-05-14 08:57:25,043 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-14 08:57:25,176 - INFO -  * Restarting with stat
+2026-05-14 08:57:25,193 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-14 08:57:25,193 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-14 08:57:25,342 - INFO -  * Restarting with stat
+2026-05-14 08:57:25,342 - INFO -  * Restarting with stat
+2026-05-14 08:57:30,183 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:57:30,187 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:57:30,187 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:59:00,864 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:59:00,951 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:59:01,170 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-14 08:59:01,170 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-14 08:59:01,188 - INFO -  * Restarting with stat
+2026-05-14 08:59:01,898 - INFO - \u2713 Database initialized successfully
+2026-05-14 08:59:01,904 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 08:59:01,955 - WARNING -  * Debugger is active!
+2026-05-14 08:59:01,964 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 08:59:09,442 - INFO - 127.0.0.1 - - [14/May/2026 08:59:09] "GET / HTTP/1.1" 200 -
+2026-05-14 08:59:09,612 - INFO - 127.0.0.1 - - [14/May/2026 08:59:09] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 08:59:14,649 - INFO - 127.0.0.1 - - [14/May/2026 08:59:14] "GET /conversation/11 HTTP/1.1" 200 -
+2026-05-14 08:59:19,318 - INFO - Conversation 11 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 08:59:19,326 - INFO - 127.0.0.1 - - [14/May/2026 08:59:19] "DELETE /conversation/11 HTTP/1.1" 200 -
+2026-05-14 08:59:19,348 - INFO - 127.0.0.1 - - [14/May/2026 08:59:19] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 08:59:23,240 - INFO - Chat request from daniel.b.symonds@gmail.com: hello gemma...
+2026-05-14 08:59:28,006 - INFO - 127.0.0.1 - - [14/May/2026 08:59:28] "POST /chat HTTP/1.1" 200 -
+2026-05-14 09:05:43,702 - INFO - 127.0.0.1 - - [14/May/2026 09:05:43] "GET / HTTP/1.1" 200 -
+2026-05-14 09:05:43,757 - INFO - 127.0.0.1 - - [14/May/2026 09:05:43] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:05:45,452 - INFO - 127.0.0.1 - - [14/May/2026 09:05:45] "GET /conversation/12 HTTP/1.1" 200 -
+2026-05-14 09:05:51,444 - INFO - Conversation 12 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 09:05:51,449 - INFO - 127.0.0.1 - - [14/May/2026 09:05:51] "DELETE /conversation/12 HTTP/1.1" 200 -
+2026-05-14 09:05:51,479 - INFO - 127.0.0.1 - - [14/May/2026 09:05:51] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:05:54,887 - INFO - Chat request from daniel.b.symonds@gmail.com: hello...
+2026-05-14 09:06:26,934 - ERROR - Ollama API timeout
+2026-05-14 09:06:26,934 - INFO - 127.0.0.1 - - [14/May/2026 09:06:26] "[35m[1mPOST /chat HTTP/1.1[0m" 504 -
+2026-05-14 09:16:32,869 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app.py', reloading
+2026-05-14 09:16:33,103 - INFO -  * Restarting with stat
+2026-05-14 09:16:34,525 - INFO - \u2713 Database initialized successfully
+2026-05-14 09:16:34,547 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 09:16:34,593 - WARNING -  * Debugger is active!
+2026-05-14 09:16:34,599 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 09:16:43,703 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app.py', reloading
+2026-05-14 09:16:43,845 - INFO -  * Restarting with stat
+2026-05-14 09:16:44,666 - INFO - \u2713 Database initialized successfully
+2026-05-14 09:16:44,687 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 09:16:44,711 - WARNING -  * Debugger is active!
+2026-05-14 09:16:44,712 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 09:16:51,461 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app.py', reloading
+2026-05-14 09:16:51,548 - INFO -  * Restarting with stat
+2026-05-14 09:16:52,260 - INFO - \u2713 Database initialized successfully
+2026-05-14 09:16:52,269 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 09:16:52,299 - WARNING -  * Debugger is active!
+2026-05-14 09:16:52,300 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 09:17:10,000 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-14 09:17:10,090 - INFO -  * Restarting with stat
+2026-05-14 09:17:10,820 - INFO - \u2713 Database initialized successfully
+2026-05-14 09:17:10,823 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 09:17:10,857 - WARNING -  * Debugger is active!
+2026-05-14 09:17:10,857 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 09:20:24,364 - INFO - 127.0.0.1 - - [14/May/2026 09:20:24] "[32mHEAD / HTTP/1.1[0m" 302 -
+2026-05-14 09:20:34,667 - INFO - 127.0.0.1 - - [14/May/2026 09:20:34] "HEAD /login HTTP/1.1" 200 -
+2026-05-14 09:25:49,751 - INFO - Signup attempt: email=testuser1778714749@example.com
+2026-05-14 09:25:49,876 - INFO - User registered successfully: testuser1778714749@example.com
+2026-05-14 09:25:49,891 - INFO - 127.0.0.1 - - [14/May/2026 09:25:49] "POST /signup HTTP/1.1" 200 -
+2026-05-14 09:25:49,908 - INFO - Login attempt: email=testuser1778714749@example.com
+2026-05-14 09:25:50,021 - INFO - User logged in: testuser1778714749@example.com
+2026-05-14 09:25:50,040 - INFO - 127.0.0.1 - - [14/May/2026 09:25:50] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-05-14 09:25:50,080 - INFO - 127.0.0.1 - - [14/May/2026 09:25:50] "GET / HTTP/1.1" 200 -
+2026-05-14 09:25:50,094 - INFO - 127.0.0.1 - - [14/May/2026 09:25:50] "GET / HTTP/1.1" 200 -
+2026-05-14 09:25:50,106 - INFO - Chat request from testuser1778714749@example.com: Hello from full chat flow test...
+2026-05-14 09:26:17,217 - INFO - 127.0.0.1 - - [14/May/2026 09:26:17] "GET / HTTP/1.1" 200 -
+2026-05-14 09:26:17,636 - INFO - 127.0.0.1 - - [14/May/2026 09:26:17] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:26:19,668 - INFO - User logged out: daniel.b.symonds@gmail.com
+2026-05-14 09:26:19,677 - INFO - 127.0.0.1 - - [14/May/2026 09:26:19] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-05-14 09:26:19,710 - INFO - 127.0.0.1 - - [14/May/2026 09:26:19] "GET /login HTTP/1.1" 200 -
+2026-05-14 09:26:37,592 - INFO - 127.0.0.1 - - [14/May/2026 09:26:37] "POST /chat HTTP/1.1" 200 -
+2026-05-14 09:27:21,199 - INFO - Login attempt: email=daniel.b.symonds@gmail.com
+2026-05-14 09:27:21,314 - INFO - User logged in: daniel.b.symonds@gmail.com
+2026-05-14 09:27:21,321 - INFO - 127.0.0.1 - - [14/May/2026 09:27:21] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-05-14 09:27:21,358 - INFO - 127.0.0.1 - - [14/May/2026 09:27:21] "GET / HTTP/1.1" 200 -
+2026-05-14 09:27:21,391 - INFO - 127.0.0.1 - - [14/May/2026 09:27:21] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:27:23,883 - INFO - 127.0.0.1 - - [14/May/2026 09:27:23] "GET /conversation/13 HTTP/1.1" 200 -
+2026-05-14 09:27:26,830 - INFO - Conversation 13 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 09:27:26,832 - INFO - 127.0.0.1 - - [14/May/2026 09:27:26] "DELETE /conversation/13 HTTP/1.1" 200 -
+2026-05-14 09:27:26,858 - INFO - 127.0.0.1 - - [14/May/2026 09:27:26] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:27:32,271 - INFO - Chat request from daniel.b.symonds@gmail.com: hello gemma...
+2026-05-14 09:27:36,648 - INFO - 127.0.0.1 - - [14/May/2026 09:27:36] "POST /chat HTTP/1.1" 200 -
+2026-05-14 09:27:36,704 - INFO - 127.0.0.1 - - [14/May/2026 09:27:36] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:27:36,721 - INFO - 127.0.0.1 - - [14/May/2026 09:27:36] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:27:44,969 - INFO - Chat request from daniel.b.symonds@gmail.com: what is 2+1...
+2026-05-14 09:27:48,346 - INFO - 127.0.0.1 - - [14/May/2026 09:27:48] "POST /chat HTTP/1.1" 200 -
+2026-05-14 09:27:48,370 - INFO - 127.0.0.1 - - [14/May/2026 09:27:48] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:28:03,878 - INFO - Chat request from daniel.b.symonds@gmail.com: are there any months of the year that have the let...
+2026-05-14 09:28:27,133 - INFO - 127.0.0.1 - - [14/May/2026 09:28:27] "POST /chat HTTP/1.1" 200 -
+2026-05-14 09:28:27,182 - INFO - 127.0.0.1 - - [14/May/2026 09:28:27] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:29:32,901 - INFO - Chat request from daniel.b.symonds@gmail.com: how to do the reverse chain rule?...
+2026-05-14 09:30:56,956 - INFO - 127.0.0.1 - - [14/May/2026 09:30:56] "POST /chat HTTP/1.1" 200 -
+2026-05-14 09:30:57,032 - INFO - 127.0.0.1 - - [14/May/2026 09:30:57] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:34:31,333 - INFO - 127.0.0.1 - - [14/May/2026 09:34:31] "GET / HTTP/1.1" 200 -
+2026-05-14 09:34:31,417 - INFO - 127.0.0.1 - - [14/May/2026 09:34:31] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:34:33,120 - INFO - 127.0.0.1 - - [14/May/2026 09:34:33] "GET /conversation/15 HTTP/1.1" 200 -
+2026-05-14 09:38:50,213 - INFO - 127.0.0.1 - - [14/May/2026 09:38:50] "GET / HTTP/1.1" 200 -
+2026-05-14 09:38:50,276 - INFO - 127.0.0.1 - - [14/May/2026 09:38:50] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:40:32,570 - INFO - 127.0.0.1 - - [14/May/2026 09:40:32] "GET /conversation/15 HTTP/1.1" 200 -
+2026-05-14 09:40:44,193 - INFO - 127.0.0.1 - - [14/May/2026 09:40:44] "PUT /conversation/15/title HTTP/1.1" 200 -
+2026-05-14 09:40:44,231 - INFO - 127.0.0.1 - - [14/May/2026 09:40:44] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:41:05,607 - INFO - 127.0.0.1 - - [14/May/2026 09:41:05] "GET / HTTP/1.1" 200 -
+2026-05-14 09:41:05,661 - INFO - 127.0.0.1 - - [14/May/2026 09:41:05] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:45:36,959 - INFO - 127.0.0.1 - - [14/May/2026 09:45:36] "GET / HTTP/1.1" 200 -
+2026-05-14 09:45:37,009 - INFO - 127.0.0.1 - - [14/May/2026 09:45:37] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:45:41,082 - INFO - 127.0.0.1 - - [14/May/2026 09:45:41] "GET /conversation/15 HTTP/1.1" 200 -
+2026-05-14 09:45:54,994 - INFO - 127.0.0.1 - - [14/May/2026 09:45:54] "PUT /conversation/15/title HTTP/1.1" 200 -
+2026-05-14 09:45:55,015 - INFO - 127.0.0.1 - - [14/May/2026 09:45:55] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:46:48,636 - INFO - Chat request from daniel.b.symonds@gmail.com: hello gemma can you please tell me why you have to...
+2026-05-14 09:48:24,495 - INFO - 127.0.0.1 - - [14/May/2026 09:48:24] "POST /chat HTTP/1.1" 200 -
+2026-05-14 09:48:24,547 - INFO - 127.0.0.1 - - [14/May/2026 09:48:24] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:48:24,568 - INFO - 127.0.0.1 - - [14/May/2026 09:48:24] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:49:11,135 - INFO - User logged out: daniel.b.symonds@gmail.com
+2026-05-14 09:49:11,138 - INFO - 127.0.0.1 - - [14/May/2026 09:49:11] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-05-14 09:49:11,167 - INFO - 127.0.0.1 - - [14/May/2026 09:49:11] "GET /login HTTP/1.1" 200 -
+2026-05-14 09:56:10,001 - INFO - \u2713 Database initialized successfully
+2026-05-14 09:56:10,016 - INFO - \u2713 Database initialized successfully
+2026-05-14 09:56:10,100 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 09:56:10,296 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-14 09:56:10,296 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-14 09:56:10,298 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-14 09:56:10,313 - INFO -  * Restarting with stat
+2026-05-14 09:56:11,129 - INFO - \u2713 Database initialized successfully
+2026-05-14 09:56:11,134 - INFO - \u2713 Database initialized successfully
+2026-05-14 09:56:11,147 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 09:56:11,147 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 09:56:11,177 - WARNING -  * Debugger is active!
+2026-05-14 09:56:11,184 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 09:56:33,365 - INFO - 127.0.0.1 - - [14/May/2026 09:56:33] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-14 09:56:33,452 - INFO - 127.0.0.1 - - [14/May/2026 09:56:33] "GET /login?next=/ HTTP/1.1" 200 -
+2026-05-14 09:56:33,688 - INFO - 127.0.0.1 - - [14/May/2026 09:56:33] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 09:56:59,511 - INFO - Login attempt: email=daniel.b.symonds@gmail.com
+2026-05-14 09:56:59,639 - INFO - User logged in: daniel.b.symonds@gmail.com
+2026-05-14 09:56:59,644 - INFO - 127.0.0.1 - - [14/May/2026 09:56:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-05-14 09:56:59,745 - INFO - 127.0.0.1 - - [14/May/2026 09:56:59] "GET / HTTP/1.1" 200 -
+2026-05-14 09:56:59,769 - INFO - 127.0.0.1 - - [14/May/2026 09:56:59] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 09:57:11,646 - INFO - 127.0.0.1 - - [14/May/2026 09:57:11] "GET /conversation/16 HTTP/1.1" 200 -
+2026-05-14 10:00:32,384 - INFO - 127.0.0.1 - - [14/May/2026 10:00:32] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-14 10:00:32,417 - INFO - 127.0.0.1 - - [14/May/2026 10:00:32] "GET /login?next=/ HTTP/1.1" 200 -
+2026-05-14 10:00:32,670 - INFO - 127.0.0.1 - - [14/May/2026 10:00:32] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:20:04,835 - INFO - Login attempt: email=daniel.b.symonds@gmail.com
+2026-05-14 10:20:04,953 - INFO - User logged in: daniel.b.symonds@gmail.com
+2026-05-14 10:20:04,973 - INFO - 127.0.0.1 - - [14/May/2026 10:20:04] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-05-14 10:20:05,000 - INFO - 127.0.0.1 - - [14/May/2026 10:20:05] "GET / HTTP/1.1" 200 -
+2026-05-14 10:20:05,058 - INFO - 127.0.0.1 - - [14/May/2026 10:20:05] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:20:05,130 - INFO - 127.0.0.1 - - [14/May/2026 10:20:05] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:24:45,179 - INFO - 127.0.0.1 - - [14/May/2026 10:24:45] "GET / HTTP/1.1" 200 -
+2026-05-14 10:24:45,246 - INFO - 127.0.0.1 - - [14/May/2026 10:24:45] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:24:45,284 - INFO - 127.0.0.1 - - [14/May/2026 10:24:45] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:24:46,949 - INFO - 127.0.0.1 - - [14/May/2026 10:24:46] "GET / HTTP/1.1" 200 -
+2026-05-14 10:24:47,025 - INFO - 127.0.0.1 - - [14/May/2026 10:24:47] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:24:47,085 - INFO - 127.0.0.1 - - [14/May/2026 10:24:47] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:24:47,714 - INFO - 127.0.0.1 - - [14/May/2026 10:24:47] "GET / HTTP/1.1" 200 -
+2026-05-14 10:24:47,773 - INFO - 127.0.0.1 - - [14/May/2026 10:24:47] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:24:47,827 - INFO - 127.0.0.1 - - [14/May/2026 10:24:47] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:24:48,059 - INFO - 127.0.0.1 - - [14/May/2026 10:24:48] "GET / HTTP/1.1" 200 -
+2026-05-14 10:24:48,122 - INFO - 127.0.0.1 - - [14/May/2026 10:24:48] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:24:48,162 - INFO - 127.0.0.1 - - [14/May/2026 10:24:48] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:24:48,403 - INFO - 127.0.0.1 - - [14/May/2026 10:24:48] "GET / HTTP/1.1" 200 -
+2026-05-14 10:24:48,465 - INFO - 127.0.0.1 - - [14/May/2026 10:24:48] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:24:48,512 - INFO - 127.0.0.1 - - [14/May/2026 10:24:48] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:24:48,747 - INFO - 127.0.0.1 - - [14/May/2026 10:24:48] "GET / HTTP/1.1" 200 -
+2026-05-14 10:24:48,819 - INFO - 127.0.0.1 - - [14/May/2026 10:24:48] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:24:48,880 - INFO - 127.0.0.1 - - [14/May/2026 10:24:48] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:24:49,055 - INFO - 127.0.0.1 - - [14/May/2026 10:24:49] "GET / HTTP/1.1" 200 -
+2026-05-14 10:24:49,110 - INFO - 127.0.0.1 - - [14/May/2026 10:24:49] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:24:49,198 - INFO - 127.0.0.1 - - [14/May/2026 10:24:49] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:24:49,362 - INFO - 127.0.0.1 - - [14/May/2026 10:24:49] "GET / HTTP/1.1" 200 -
+2026-05-14 10:24:49,416 - INFO - 127.0.0.1 - - [14/May/2026 10:24:49] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:24:49,486 - INFO - 127.0.0.1 - - [14/May/2026 10:24:49] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:24:49,598 - INFO - 127.0.0.1 - - [14/May/2026 10:24:49] "GET / HTTP/1.1" 200 -
+2026-05-14 10:24:49,651 - INFO - 127.0.0.1 - - [14/May/2026 10:24:49] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:24:49,720 - INFO - 127.0.0.1 - - [14/May/2026 10:24:49] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:25:00,195 - INFO - 127.0.0.1 - - [14/May/2026 10:25:00] "GET / HTTP/1.1" 200 -
+2026-05-14 10:25:00,364 - INFO - 127.0.0.1 - - [14/May/2026 10:25:00] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:25:00,478 - INFO - 127.0.0.1 - - [14/May/2026 10:25:00] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:25:22,596 - INFO - 127.0.0.1 - - [14/May/2026 10:25:22] "GET / HTTP/1.1" 200 -
+2026-05-14 10:25:22,676 - INFO - 127.0.0.1 - - [14/May/2026 10:25:22] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:25:22,722 - INFO - 127.0.0.1 - - [14/May/2026 10:25:22] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:25:24,823 - INFO - 127.0.0.1 - - [14/May/2026 10:25:24] "GET / HTTP/1.1" 200 -
+2026-05-14 10:25:24,887 - INFO - 127.0.0.1 - - [14/May/2026 10:25:24] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:25:24,957 - INFO - 127.0.0.1 - - [14/May/2026 10:25:24] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:25:25,221 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "GET / HTTP/1.1" 200 -
+2026-05-14 10:25:25,301 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:25:25,351 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:25:25,410 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "GET / HTTP/1.1" 200 -
+2026-05-14 10:25:25,467 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:25:25,525 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:25:25,652 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "GET / HTTP/1.1" 200 -
+2026-05-14 10:25:25,709 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:25:25,756 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:25:25,802 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "GET / HTTP/1.1" 200 -
+2026-05-14 10:25:25,863 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:25:25,919 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "GET / HTTP/1.1" 200 -
+2026-05-14 10:25:25,929 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:25:25,993 - INFO - 127.0.0.1 - - [14/May/2026 10:25:25] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:25:26,061 - INFO - 127.0.0.1 - - [14/May/2026 10:25:26] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:25:31,784 - INFO - 127.0.0.1 - - [14/May/2026 10:25:31] "GET / HTTP/1.1" 200 -
+2026-05-14 10:25:31,850 - INFO - 127.0.0.1 - - [14/May/2026 10:25:31] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:25:31,901 - INFO - 127.0.0.1 - - [14/May/2026 10:25:31] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:26:19,836 - INFO - 127.0.0.1 - - [14/May/2026 10:26:19] "GET / HTTP/1.1" 200 -
+2026-05-14 10:26:19,932 - INFO - 127.0.0.1 - - [14/May/2026 10:26:19] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:26:19,959 - INFO - 127.0.0.1 - - [14/May/2026 10:26:19] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:26:23,903 - INFO - 127.0.0.1 - - [14/May/2026 10:26:23] "GET / HTTP/1.1" 200 -
+2026-05-14 10:26:23,989 - INFO - 127.0.0.1 - - [14/May/2026 10:26:23] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:26:24,065 - INFO - 127.0.0.1 - - [14/May/2026 10:26:24] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:26:47,666 - INFO - 127.0.0.1 - - [14/May/2026 10:26:47] "GET / HTTP/1.1" 200 -
+2026-05-14 10:26:47,737 - INFO - 127.0.0.1 - - [14/May/2026 10:26:47] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:26:47,790 - INFO - 127.0.0.1 - - [14/May/2026 10:26:47] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:27:10,266 - INFO - User logged out: daniel.b.symonds@gmail.com
+2026-05-14 10:27:10,273 - INFO - 127.0.0.1 - - [14/May/2026 10:27:10] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-05-14 10:27:10,294 - INFO - 127.0.0.1 - - [14/May/2026 10:27:10] "GET /login HTTP/1.1" 200 -
+2026-05-14 10:27:10,410 - INFO - 127.0.0.1 - - [14/May/2026 10:27:10] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:27:54,537 - INFO - Signup attempt: email=tess.conroy21@gmail.com
+2026-05-14 10:27:54,715 - INFO - User registered successfully: tess.conroy21@gmail.com
+2026-05-14 10:27:54,719 - INFO - 127.0.0.1 - - [14/May/2026 10:27:54] "POST /signup HTTP/1.1" 200 -
+2026-05-14 10:27:54,895 - INFO - 127.0.0.1 - - [14/May/2026 10:27:54] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:27:59,363 - INFO - Login attempt: email=tess.conroy21@gmail.com
+2026-05-14 10:27:59,551 - INFO - User logged in: tess.conroy21@gmail.com
+2026-05-14 10:27:59,559 - INFO - 127.0.0.1 - - [14/May/2026 10:27:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-05-14 10:27:59,605 - INFO - 127.0.0.1 - - [14/May/2026 10:27:59] "GET / HTTP/1.1" 200 -
+2026-05-14 10:27:59,679 - INFO - 127.0.0.1 - - [14/May/2026 10:27:59] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:27:59,734 - INFO - 127.0.0.1 - - [14/May/2026 10:27:59] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:29:44,209 - INFO - Chat request from tess.conroy21@gmail.com: how are black holes formed...
+2026-05-14 10:31:16,630 - INFO - 127.0.0.1 - - [14/May/2026 10:31:16] "POST /chat HTTP/1.1" 200 -
+2026-05-14 10:31:16,694 - INFO - 127.0.0.1 - - [14/May/2026 10:31:16] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:31:16,714 - INFO - 127.0.0.1 - - [14/May/2026 10:31:16] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:42:16,645 - INFO - 127.0.0.1 - - [14/May/2026 10:42:16] "GET / HTTP/1.1" 200 -
+2026-05-14 10:42:16,910 - INFO - 127.0.0.1 - - [14/May/2026 10:42:16] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:42:16,960 - INFO - 127.0.0.1 - - [14/May/2026 10:42:16] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:42:20,560 - INFO - 127.0.0.1 - - [14/May/2026 10:42:20] "GET /conversation/17 HTTP/1.1" 200 -
+2026-05-14 10:42:56,981 - INFO - 127.0.0.1 - - [14/May/2026 10:42:56] "GET / HTTP/1.1" 200 -
+2026-05-14 10:42:57,048 - INFO - 127.0.0.1 - - [14/May/2026 10:42:57] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:42:57,096 - INFO - 127.0.0.1 - - [14/May/2026 10:42:57] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:45:47,288 - INFO - 127.0.0.1 - - [14/May/2026 10:45:47] "GET / HTTP/1.1" 200 -
+2026-05-14 10:45:47,371 - INFO - 127.0.0.1 - - [14/May/2026 10:45:47] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:45:47,427 - INFO - 127.0.0.1 - - [14/May/2026 10:45:47] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:48:05,219 - INFO - 127.0.0.1 - - [14/May/2026 10:48:05] "GET / HTTP/1.1" 200 -
+2026-05-14 10:48:05,283 - INFO - 127.0.0.1 - - [14/May/2026 10:48:05] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:48:05,359 - INFO - 127.0.0.1 - - [14/May/2026 10:48:05] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:48:06,106 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "GET / HTTP/1.1" 200 -
+2026-05-14 10:48:06,181 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:48:06,232 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:48:06,274 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "GET / HTTP/1.1" 200 -
+2026-05-14 10:48:06,328 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:48:06,358 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:48:06,432 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "GET / HTTP/1.1" 200 -
+2026-05-14 10:48:06,494 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:48:06,545 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:48:06,591 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "GET / HTTP/1.1" 200 -
+2026-05-14 10:48:06,658 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:48:06,704 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:48:06,712 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "GET / HTTP/1.1" 200 -
+2026-05-14 10:48:06,791 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:48:06,847 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:48:06,850 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "GET / HTTP/1.1" 200 -
+2026-05-14 10:48:06,922 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:48:06,965 - INFO - 127.0.0.1 - - [14/May/2026 10:48:06] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:48:24,419 - INFO - 127.0.0.1 - - [14/May/2026 10:48:24] "GET / HTTP/1.1" 200 -
+2026-05-14 10:48:24,510 - INFO - 127.0.0.1 - - [14/May/2026 10:48:24] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:48:24,593 - INFO - 127.0.0.1 - - [14/May/2026 10:48:24] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 10:49:59,621 - INFO - 127.0.0.1 - - [14/May/2026 10:49:59] "GET / HTTP/1.1" 200 -
+2026-05-14 10:49:59,675 - INFO - 127.0.0.1 - - [14/May/2026 10:49:59] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 10:49:59,719 - INFO - 127.0.0.1 - - [14/May/2026 10:49:59] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 11:48:19,963 - INFO - \u2713 Database initialized successfully
+2026-05-14 11:48:19,963 - INFO - \u2713 Database initialized successfully
+2026-05-14 11:48:19,979 - INFO - \u2713 Database initialized successfully
+2026-05-14 11:48:19,982 - INFO - \u2713 Database initialized successfully
+2026-05-14 11:48:19,995 - INFO - \u2713 Database initialized successfully
+2026-05-14 11:48:20,033 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 11:48:20,033 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 11:48:20,033 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 11:48:20,033 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 11:48:20,033 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 11:48:20,214 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-14 11:48:20,214 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-14 11:48:20,214 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-14 11:48:20,214 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-14 11:48:20,214 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-14 11:48:20,214 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-14 11:48:20,214 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-14 11:48:20,214 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-14 11:48:20,230 - INFO -  * Restarting with stat
+2026-05-14 11:48:20,230 - INFO -  * Restarting with stat
+2026-05-14 11:48:20,230 - INFO -  * Restarting with stat
+2026-05-14 11:48:20,230 - INFO -  * Restarting with stat
+2026-05-14 11:48:20,230 - INFO -  * Restarting with stat
+2026-05-14 11:48:20,230 - INFO -  * Restarting with stat
+2026-05-14 11:48:20,230 - INFO -  * Restarting with stat
+2026-05-14 11:48:21,274 - INFO - \u2713 Database initialized successfully
+2026-05-14 11:48:21,275 - INFO - \u2713 Database initialized successfully
+2026-05-14 11:48:21,275 - INFO - \u2713 Database initialized successfully
+2026-05-14 11:48:21,290 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 11:48:21,290 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 11:48:21,290 - INFO - \u2713 Database initialized successfully
+2026-05-14 11:48:21,301 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 11:48:21,301 - INFO - \u2713 Database initialized successfully
+2026-05-14 11:48:21,301 - INFO - \u2713 Database initialized successfully
+2026-05-14 11:48:21,315 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 11:48:21,317 - WARNING -  * Debugger is active!
+2026-05-14 11:48:21,324 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 11:48:21,324 - WARNING -  * Debugger is active!
+2026-05-14 11:48:21,324 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 11:48:21,324 - WARNING -  * Debugger is active!
+2026-05-14 11:48:21,324 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 11:48:21,333 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 11:48:21,333 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 11:48:21,341 - WARNING -  * Debugger is active!
+2026-05-14 11:48:21,341 - INFO - \u2713 Database initialized successfully
+2026-05-14 11:48:21,350 - WARNING -  * Debugger is active!
+2026-05-14 11:48:21,350 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 11:48:21,350 - WARNING -  * Debugger is active!
+2026-05-14 11:48:21,357 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 11:48:21,357 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 11:48:21,366 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 11:48:21,390 - WARNING -  * Debugger is active!
+2026-05-14 11:48:21,398 - INFO -  * Debugger PIN: 135-961-674
+2026-05-14 11:48:26,617 - INFO - 127.0.0.1 - - [14/May/2026 11:48:26] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-14 11:48:26,936 - INFO - 127.0.0.1 - - [14/May/2026 11:48:26] "GET /login?next=/ HTTP/1.1" 200 -
+2026-05-14 11:49:15,581 - INFO - Login attempt: email=daniel.b.symonds@gmail.com
+2026-05-14 11:49:15,696 - INFO - User logged in: daniel.b.symonds@gmail.com
+2026-05-14 11:49:15,706 - INFO - 127.0.0.1 - - [14/May/2026 11:49:15] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-05-14 11:49:15,827 - INFO - 127.0.0.1 - - [14/May/2026 11:49:15] "GET / HTTP/1.1" 200 -
+2026-05-14 11:49:15,885 - INFO - 127.0.0.1 - - [14/May/2026 11:49:15] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 11:49:47,255 - INFO - Chat request from daniel.b.symonds@gmail.com: how to integrate the reciprocal function...
+2026-05-14 11:50:12,920 - INFO - 127.0.0.1 - - [14/May/2026 11:50:12] "GET / HTTP/1.1" 200 -
+2026-05-14 11:50:13,211 - INFO - 127.0.0.1 - - [14/May/2026 11:50:13] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 11:50:20,836 - INFO - 127.0.0.1 - - [14/May/2026 11:50:20] "GET /conversation/18 HTTP/1.1" 200 -
+2026-05-14 11:50:24,110 - INFO - Conversation 18 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 11:50:24,121 - INFO - 127.0.0.1 - - [14/May/2026 11:50:24] "DELETE /conversation/18 HTTP/1.1" 200 -
+2026-05-14 11:50:24,160 - INFO - 127.0.0.1 - - [14/May/2026 11:50:24] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 11:50:24,977 - INFO - 127.0.0.1 - - [14/May/2026 11:50:24] "GET /conversation/16 HTTP/1.1" 200 -
+2026-05-14 11:50:27,259 - INFO - Conversation 16 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 11:50:27,264 - INFO - 127.0.0.1 - - [14/May/2026 11:50:27] "DELETE /conversation/16 HTTP/1.1" 200 -
+2026-05-14 11:50:27,296 - INFO - 127.0.0.1 - - [14/May/2026 11:50:27] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 11:50:28,169 - INFO - 127.0.0.1 - - [14/May/2026 11:50:28] "GET /conversation/15 HTTP/1.1" 200 -
+2026-05-14 11:50:30,353 - INFO - Conversation 15 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 11:50:30,356 - INFO - 127.0.0.1 - - [14/May/2026 11:50:30] "DELETE /conversation/15 HTTP/1.1" 200 -
+2026-05-14 11:50:30,385 - INFO - 127.0.0.1 - - [14/May/2026 11:50:30] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 11:50:45,968 - INFO - Chat request from daniel.b.symonds@gmail.com: how to integrate the reciprocal function...
+2026-05-14 11:51:04,881 - INFO - 127.0.0.1 - - [14/May/2026 11:51:04] "POST /chat HTTP/1.1" 200 -
+2026-05-14 11:52:05,361 - INFO - 127.0.0.1 - - [14/May/2026 11:52:05] "POST /chat HTTP/1.1" 200 -
+2026-05-14 11:52:05,409 - INFO - 127.0.0.1 - - [14/May/2026 11:52:05] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 11:52:05,421 - INFO - 127.0.0.1 - - [14/May/2026 11:52:05] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 11:55:59,280 - INFO - 127.0.0.1 - - [14/May/2026 11:55:59] "GET / HTTP/1.1" 200 -
+2026-05-14 11:55:59,330 - INFO - 127.0.0.1 - - [14/May/2026 11:55:59] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 11:57:26,180 - INFO - 127.0.0.1 - - [14/May/2026 11:57:26] "GET / HTTP/1.1" 200 -
+2026-05-14 11:57:26,218 - INFO - 127.0.0.1 - - [14/May/2026 11:57:26] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 11:58:47,992 - INFO - 127.0.0.1 - - [14/May/2026 11:58:47] "GET / HTTP/1.1" 200 -
+2026-05-14 11:58:48,086 - INFO - 127.0.0.1 - - [14/May/2026 11:58:48] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 11:59:15,983 - INFO - 127.0.0.1 - - [14/May/2026 11:59:15] "GET /conversation/19 HTTP/1.1" 200 -
+2026-05-14 12:02:21,257 - INFO - 127.0.0.1 - - [14/May/2026 12:02:21] "GET / HTTP/1.1" 200 -
+2026-05-14 12:02:21,378 - INFO - 127.0.0.1 - - [14/May/2026 12:02:21] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 12:02:35,197 - INFO - 127.0.0.1 - - [14/May/2026 12:02:35] "PUT /conversation/19/title HTTP/1.1" 200 -
+2026-05-14 12:02:35,231 - INFO - 127.0.0.1 - - [14/May/2026 12:02:35] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 12:02:36,226 - INFO - 127.0.0.1 - - [14/May/2026 12:02:36] "GET /conversation/19 HTTP/1.1" 200 -
+2026-05-14 15:04:58,229 - INFO - \u2713 Database initialized successfully
+2026-05-14 15:04:58,269 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 15:04:58,385 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-14 15:04:58,385 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-14 15:04:58,401 - INFO -  * Restarting with stat
+2026-05-14 15:04:58,947 - INFO - \u2713 Database initialized successfully
+2026-05-14 15:04:58,959 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-14 15:04:58,974 - WARNING -  * Debugger is active!
+2026-05-14 15:06:12,315 - INFO - 127.0.0.1 - - [14/May/2026 15:06:12] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-14 15:06:12,380 - INFO - 127.0.0.1 - - [14/May/2026 15:06:12] "GET /login?next=/ HTTP/1.1" 200 -
+2026-05-14 15:06:12,604 - INFO - 127.0.0.1 - - [14/May/2026 15:06:12] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-14 15:11:44,323 - INFO - Login attempt: email=daniel.b.symonds@gmail.com
+2026-05-14 15:11:44,439 - INFO - User logged in: daniel.b.symonds@gmail.com
+2026-05-14 15:11:44,442 - INFO - 127.0.0.1 - - [14/May/2026 15:11:44] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-05-14 15:11:44,520 - INFO - 127.0.0.1 - - [14/May/2026 15:11:44] "GET / HTTP/1.1" 200 -
+2026-05-14 15:11:44,553 - INFO - 127.0.0.1 - - [14/May/2026 15:11:44] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 15:12:06,269 - INFO - Chat request from daniel.b.symonds@gmail.com: hello gemma please tell me how to differentiate x^...
+2026-05-14 15:13:04,072 - INFO - 127.0.0.1 - - [14/May/2026 15:13:04] "POST /chat HTTP/1.1" 200 -
+2026-05-14 15:13:04,135 - INFO - 127.0.0.1 - - [14/May/2026 15:13:04] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 15:13:04,146 - INFO - 127.0.0.1 - - [14/May/2026 15:13:04] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 15:30:11,573 - INFO - 127.0.0.1 - - [14/May/2026 15:30:11] "GET / HTTP/1.1" 200 -
+2026-05-14 15:30:11,770 - INFO - 127.0.0.1 - - [14/May/2026 15:30:11] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 15:30:26,034 - INFO - Chat request from daniel.b.symonds@gmail.com: hi gemma pelase differentiate x^2...
+2026-05-14 15:31:03,906 - INFO - 127.0.0.1 - - [14/May/2026 15:31:03] "POST /chat HTTP/1.1" 200 -
+2026-05-14 15:31:03,931 - INFO - 127.0.0.1 - - [14/May/2026 15:31:03] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 15:31:03,941 - INFO - 127.0.0.1 - - [14/May/2026 15:31:03] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 15:34:02,501 - INFO - Conversation 20 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 15:34:02,505 - INFO - 127.0.0.1 - - [14/May/2026 15:34:02] "DELETE /conversation/20 HTTP/1.1" 200 -
+2026-05-14 15:34:02,524 - INFO - 127.0.0.1 - - [14/May/2026 15:34:02] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 15:34:05,632 - INFO - Conversation 19 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 15:34:05,632 - INFO - 127.0.0.1 - - [14/May/2026 15:34:05] "DELETE /conversation/19 HTTP/1.1" 200 -
+2026-05-14 15:34:05,652 - INFO - 127.0.0.1 - - [14/May/2026 15:34:05] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 15:36:14,391 - INFO - 127.0.0.1 - - [14/May/2026 15:36:14] "GET / HTTP/1.1" 200 -
+2026-05-14 15:36:14,443 - INFO - 127.0.0.1 - - [14/May/2026 15:36:14] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 15:36:16,927 - INFO - 127.0.0.1 - - [14/May/2026 15:36:16] "GET /conversation/21 HTTP/1.1" 200 -
+2026-05-14 15:36:46,637 - INFO - Chat request from daniel.b.symonds@gmail.com: hey gemma please differentiate x^3...
+2026-05-14 15:37:15,214 - INFO - 127.0.0.1 - - [14/May/2026 15:37:15] "POST /chat HTTP/1.1" 200 -
+2026-05-14 15:37:15,240 - INFO - 127.0.0.1 - - [14/May/2026 15:37:15] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 15:42:13,665 - INFO - 127.0.0.1 - - [14/May/2026 15:42:13] "GET / HTTP/1.1" 200 -
+2026-05-14 15:42:13,700 - INFO - 127.0.0.1 - - [14/May/2026 15:42:13] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 15:42:15,876 - INFO - 127.0.0.1 - - [14/May/2026 15:42:15] "GET /conversation/21 HTTP/1.1" 200 -
+2026-05-14 15:42:21,835 - INFO - Chat request from daniel.b.symonds@gmail.com: what about x^4...
+2026-05-14 15:43:22,034 - INFO - 127.0.0.1 - - [14/May/2026 15:43:22] "POST /chat HTTP/1.1" 200 -
+2026-05-14 15:43:22,083 - INFO - 127.0.0.1 - - [14/May/2026 15:43:22] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 15:56:21,086 - INFO - 127.0.0.1 - - [14/May/2026 15:56:21] "GET / HTTP/1.1" 200 -
+2026-05-14 15:56:21,119 - INFO - 127.0.0.1 - - [14/May/2026 15:56:21] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 15:56:23,038 - INFO - 127.0.0.1 - - [14/May/2026 15:56:23] "GET /conversation/21 HTTP/1.1" 200 -
+2026-05-14 16:04:57,915 - INFO - 127.0.0.1 - - [14/May/2026 16:04:57] "GET / HTTP/1.1" 200 -
+2026-05-14 16:04:57,973 - INFO - 127.0.0.1 - - [14/May/2026 16:04:57] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 16:05:16,367 - INFO - Chat request from daniel.b.symonds@gmail.com: differentiate y=x^2...
+2026-05-14 16:05:24,335 - INFO - 127.0.0.1 - - [14/May/2026 16:05:24] "GET /conversation/21 HTTP/1.1" 200 -
+2026-05-14 16:05:27,078 - INFO - Conversation 21 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 16:05:27,082 - INFO - 127.0.0.1 - - [14/May/2026 16:05:27] "DELETE /conversation/21 HTTP/1.1" 200 -
+2026-05-14 16:05:27,111 - INFO - 127.0.0.1 - - [14/May/2026 16:05:27] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 16:05:49,850 - INFO - 127.0.0.1 - - [14/May/2026 16:05:49] "POST /chat HTTP/1.1" 200 -
+2026-05-14 16:05:49,879 - INFO - 127.0.0.1 - - [14/May/2026 16:05:49] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 16:05:49,893 - INFO - 127.0.0.1 - - [14/May/2026 16:05:49] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 16:05:50,211 - INFO - User logged out: daniel.b.symonds@gmail.com
+2026-05-14 16:05:50,224 - INFO - 127.0.0.1 - - [14/May/2026 16:05:50] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-05-14 16:05:50,239 - INFO - 127.0.0.1 - - [14/May/2026 16:05:50] "GET /login HTTP/1.1" 200 -
+2026-05-14 16:06:08,656 - INFO - Login attempt: email=daniel.b.symonds@gmail.com
+2026-05-14 16:06:08,764 - INFO - User logged in: daniel.b.symonds@gmail.com
+2026-05-14 16:06:08,767 - INFO - 127.0.0.1 - - [14/May/2026 16:06:08] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-05-14 16:06:08,787 - INFO - 127.0.0.1 - - [14/May/2026 16:06:08] "GET / HTTP/1.1" 200 -
+2026-05-14 16:06:08,841 - INFO - 127.0.0.1 - - [14/May/2026 16:06:08] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 16:06:19,619 - INFO - Chat request from daniel.b.symonds@gmail.com: differentiate y = x^2...
+2026-05-14 16:06:28,831 - INFO - 127.0.0.1 - - [14/May/2026 16:06:28] "POST /chat HTTP/1.1" 200 -
+2026-05-14 16:06:28,859 - INFO - 127.0.0.1 - - [14/May/2026 16:06:28] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 16:06:28,862 - INFO - 127.0.0.1 - - [14/May/2026 16:06:28] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 16:06:41,880 - INFO - 127.0.0.1 - - [14/May/2026 16:06:41] "GET /conversation/22 HTTP/1.1" 200 -
+2026-05-14 16:06:45,504 - INFO - Conversation 22 deleted by user daniel.b.symonds@gmail.com
+2026-05-14 16:06:45,507 - INFO - 127.0.0.1 - - [14/May/2026 16:06:45] "DELETE /conversation/22 HTTP/1.1" 200 -
+2026-05-14 16:06:45,527 - INFO - 127.0.0.1 - - [14/May/2026 16:06:45] "GET /conversations HTTP/1.1" 200 -
+2026-05-14 16:06:46,517 - INFO - 127.0.0.1 - - [14/May/2026 16:06:46] "GET /conversation/23 HTTP/1.1" 200 -
+2026-05-14 16:06:57,888 - INFO - 127.0.0.1 - - [14/May/2026 16:06:57] "PUT /conversation/23/title HTTP/1.1" 200 -
+2026-05-14 16:06:57,904 - INFO - 127.0.0.1 - - [14/May/2026 16:06:57] "GET /conversations HTTP/1.1" 200 -
+2026-05-16 15:05:25,520 - INFO - \u2713 Database initialized successfully
+2026-05-16 15:05:25,543 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-16 15:05:25,621 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-16 15:05:25,621 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-16 15:05:25,627 - INFO -  * Restarting with stat
+2026-05-16 15:05:25,944 - INFO - \u2713 Database initialized successfully
+2026-05-16 15:05:25,944 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-16 15:05:25,960 - WARNING -  * Debugger is active!
+2026-05-16 15:05:25,962 - INFO -  * Debugger PIN: 135-961-674
+2026-05-16 15:05:28,762 - INFO - 127.0.0.1 - - [16/May/2026 15:05:28] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-16 15:05:28,779 - INFO - 127.0.0.1 - - [16/May/2026 15:05:28] "GET /login?next=/ HTTP/1.1" 200 -
+2026-05-16 15:05:28,925 - INFO - 127.0.0.1 - - [16/May/2026 15:05:28] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-16 15:06:15,180 - INFO - Login attempt: email=daniel.b.symonds@gmail.com
+2026-05-16 15:06:15,246 - INFO - User logged in: daniel.b.symonds@gmail.com
+2026-05-16 15:06:15,248 - INFO - 127.0.0.1 - - [16/May/2026 15:06:15] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-05-16 15:06:15,264 - INFO - 127.0.0.1 - - [16/May/2026 15:06:15] "GET / HTTP/1.1" 200 -
+2026-05-16 15:06:15,504 - INFO - 127.0.0.1 - - [16/May/2026 15:06:15] "GET /conversations HTTP/1.1" 200 -
+2026-05-18 14:52:02,946 - INFO - \u2713 Database initialized successfully
+2026-05-18 14:52:03,008 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-18 14:52:03,155 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-18 14:52:03,155 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-18 14:52:03,164 - INFO -  * Restarting with stat
+2026-05-18 14:52:03,824 - INFO - \u2713 Database initialized successfully
+2026-05-18 14:52:03,838 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-18 14:52:03,862 - WARNING -  * Debugger is active!
+2026-05-18 14:52:03,870 - INFO -  * Debugger PIN: 135-961-674
+2026-05-18 14:52:08,334 - INFO - 127.0.0.1 - - [18/May/2026 14:52:08] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-18 14:52:08,399 - INFO - 127.0.0.1 - - [18/May/2026 14:52:08] "GET /login?next=/ HTTP/1.1" 200 -
+2026-05-18 14:52:08,707 - INFO - 127.0.0.1 - - [18/May/2026 14:52:08] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-18 14:52:31,391 - INFO - Login attempt: email=daniel.b.symonds@gmail.com
+2026-05-18 14:52:31,516 - INFO - User logged in: daniel.b.symonds@gmail.com
+2026-05-18 14:52:31,523 - INFO - 127.0.0.1 - - [18/May/2026 14:52:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-05-18 14:52:31,558 - INFO - 127.0.0.1 - - [18/May/2026 14:52:31] "GET / HTTP/1.1" 200 -
+2026-05-18 14:52:31,711 - INFO - 127.0.0.1 - - [18/May/2026 14:52:31] "GET /conversations HTTP/1.1" 200 -
+2026-05-18 14:53:30,181 - INFO - 127.0.0.1 - - [18/May/2026 14:53:30] "GET / HTTP/1.1" 200 -
+2026-05-18 14:53:30,311 - INFO - 127.0.0.1 - - [18/May/2026 14:53:30] "GET /conversations HTTP/1.1" 200 -
+2026-05-18 14:54:02,829 - INFO - 127.0.0.1 - - [18/May/2026 14:54:02] "GET / HTTP/1.1" 200 -
+2026-05-18 14:54:02,982 - INFO - 127.0.0.1 - - [18/May/2026 14:54:02] "GET /conversations HTTP/1.1" 200 -
+2026-05-18 14:55:23,615 - INFO - 127.0.0.1 - - [18/May/2026 14:55:23] "GET /conversation/23 HTTP/1.1" 200 -
+2026-05-18 14:55:47,408 - INFO - Chat request from daniel.b.symonds@gmail.com: integrate x^2x...
+2026-05-18 14:56:05,187 - INFO - 127.0.0.1 - - [18/May/2026 14:56:05] "POST /chat HTTP/1.1" 200 -
+2026-05-18 14:56:05,241 - INFO - 127.0.0.1 - - [18/May/2026 14:56:05] "GET /conversations HTTP/1.1" 200 -
+2026-05-18 14:57:03,331 - INFO - Chat request from daniel.b.symonds@gmail.com: integrate x^(2x)...
+2026-05-18 14:58:05,157 - INFO - 127.0.0.1 - - [18/May/2026 14:58:05] "POST /chat HTTP/1.1" 200 -
+2026-05-18 14:58:05,220 - INFO - 127.0.0.1 - - [18/May/2026 14:58:05] "GET /conversations HTTP/1.1" 200 -
+2026-05-18 15:02:08,827 - INFO - Chat request from daniel.b.symonds@gmail.com: what about integrating 5^(2x)...
+2026-05-18 15:02:52,549 - INFO - 127.0.0.1 - - [18/May/2026 15:02:52] "POST /chat HTTP/1.1" 200 -
+2026-05-18 15:02:52,660 - INFO - 127.0.0.1 - - [18/May/2026 15:02:52] "GET /conversations HTTP/1.1" 200 -
+2026-05-18 15:06:25,805 - INFO - 127.0.0.1 - - [18/May/2026 15:06:25] "GET / HTTP/1.1" 200 -
+2026-05-18 15:06:25,896 - INFO - 127.0.0.1 - - [18/May/2026 15:06:25] "GET /conversations HTTP/1.1" 200 -
+2026-05-18 15:06:29,337 - INFO - 127.0.0.1 - - [18/May/2026 15:06:29] "GET /conversation/23 HTTP/1.1" 200 -
+2026-05-18 15:07:03,811 - INFO - 127.0.0.1 - - [18/May/2026 15:07:03] "PUT /conversation/23/title HTTP/1.1" 200 -
+2026-05-18 15:07:03,845 - INFO - 127.0.0.1 - - [18/May/2026 15:07:03] "GET /conversations HTTP/1.1" 200 -
+2026-05-18 15:07:12,261 - INFO - User logged out: daniel.b.symonds@gmail.com
+2026-05-18 15:07:12,271 - INFO - 127.0.0.1 - - [18/May/2026 15:07:12] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-05-18 15:07:12,299 - INFO - 127.0.0.1 - - [18/May/2026 15:07:12] "GET /login HTTP/1.1" 200 -
+2026-05-18 16:37:13,497 - INFO - \u2713 Database initialized successfully
+2026-05-18 16:37:13,540 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-18 16:37:13,612 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-18 16:37:13,612 - INFO - [33mPress CTRL+C to quit[0m
+elopment server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-18 16:37:13,612 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-18 16:37:13,628 - INFO -  * Restarting with stat
+2026-05-18 16:37:13,628 - INFO -  * Restarting with stat
+2026-05-18 16:37:13,962 - INFO - \u2713 Database initialized successfully
+2026-05-18 16:37:13,970 - INFO - \u2713 Database initialized successfully
+2026-05-18 16:37:13,971 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-18 16:37:13,976 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-18 16:37:13,977 - WARNING -  * Debugger is active!
+2026-05-18 16:37:13,977 - INFO -  * Debugger PIN: 135-961-674
+2026-05-18 16:37:13,977 - WARNING -  * Debugger is active!
+2026-05-18 16:37:13,977 - INFO -  * Debugger PIN: 135-961-674
+2026-05-18 16:37:19,496 - INFO - 127.0.0.1 - - [18/May/2026 16:37:19] "GET /login HTTP/1.1" 200 -
+2026-05-18 16:37:19,668 - INFO - 127.0.0.1 - - [18/May/2026 16:37:19] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2026-05-18 16:37:20,832 - INFO - 127.0.0.1 - - [18/May/2026 16:37:20] "GET /login HTTP/1.1" 200 -
+2026-05-18 16:37:51,804 - INFO - Login attempt: email=daniel.b.symonds@gmail.com
+2026-05-18 16:37:51,861 - INFO - User logged in: daniel.b.symonds@gmail.com
+2026-05-18 16:37:51,867 - INFO - 127.0.0.1 - - [18/May/2026 16:37:51] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-05-18 16:37:51,905 - INFO - 127.0.0.1 - - [18/May/2026 16:37:51] "GET / HTTP/1.1" 200 -
+2026-05-18 16:37:52,055 - INFO - 127.0.0.1 - - [18/May/2026 16:37:52] "GET /conversations HTTP/1.1" 200 -
+2026-05-18 16:37:59,470 - INFO - 127.0.0.1 - - [18/May/2026 16:37:59] "GET /conversation/23 HTTP/1.1" 200 -
+2026-05-18 16:46:07,732 - INFO - 127.0.0.1 - - [18/May/2026 16:46:07] "GET / HTTP/1.1" 200 -
+2026-05-18 16:46:07,768 - INFO - 127.0.0.1 - - [18/May/2026 16:46:07] "GET /conversations HTTP/1.1" 200 -
+2026-05-18 16:46:10,006 - INFO - 127.0.0.1 - - [18/May/2026 16:46:10] "GET /conversation/23 HTTP/1.1" 200 -
+2026-05-18 16:51:27,451 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-18 16:51:27,522 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-18 16:51:27,567 - INFO -  * Restarting with stat
+2026-05-18 16:51:27,601 - INFO -  * Restarting with stat
+2026-05-18 16:51:28,266 - INFO - \u2713 Database initialized successfully
+2026-05-18 16:51:28,268 - INFO - \u2713 Database initialized successfully
+2026-05-18 16:51:28,268 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-18 16:51:28,292 - WARNING -  * Debugger is active!
+2026-05-18 16:51:28,301 - INFO -  * Debugger PIN: 135-961-674
+2026-05-18 16:51:31,604 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-18 16:51:31,637 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-18 16:51:31,654 - INFO -  * Restarting with stat
+2026-05-18 16:51:31,672 - INFO -  * Restarting with stat
+2026-05-18 16:51:31,971 - INFO - \u2713 Database initialized successfully
+2026-05-18 16:51:31,985 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-18 16:51:31,986 - INFO - \u2713 Database initialized successfully
+2026-05-18 16:51:31,987 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-18 16:51:31,987 - WARNING -  * Debugger is active!
+2026-05-18 16:51:31,987 - INFO -  * Debugger PIN: 135-961-674
+2026-05-18 16:51:32,003 - WARNING -  * Debugger is active!
+2026-05-18 16:51:32,006 - INFO -  * Debugger PIN: 135-961-674
+2026-05-18 16:51:40,577 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-18 16:51:40,577 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-18 16:51:40,611 - INFO -  * Restarting with stat
+2026-05-18 16:51:40,644 - INFO -  * Restarting with stat
+2026-05-18 16:51:40,944 - INFO - \u2713 Database initialized successfully
+2026-05-18 16:51:40,959 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-18 16:51:40,961 - INFO - \u2713 Database initialized successfully
+2026-05-18 16:51:40,969 - WARNING -  * Debugger is active!
+2026-05-18 16:51:40,971 - INFO -  * Debugger PIN: 135-961-674
+2026-05-18 16:51:40,971 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-18 16:51:40,982 - WARNING -  * Debugger is active!
+2026-05-18 16:51:40,984 - INFO -  * Debugger PIN: 135-961-674
+2026-05-18 16:51:42,935 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-18 16:51:42,978 - INFO -  * Restarting with stat
+2026-05-18 16:51:42,978 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-18 16:51:43,028 - INFO -  * Restarting with stat
+2026-05-18 16:51:43,312 - INFO - \u2713 Database initialized successfully
+2026-05-18 16:51:43,312 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-18 16:51:43,329 - WARNING -  * Debugger is active!
+2026-05-18 16:51:43,329 - INFO -  * Debugger PIN: 135-961-674
+2026-05-18 16:51:43,329 - INFO - \u2713 Database initialized successfully
+2026-05-18 16:51:43,346 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-18 16:51:43,346 - WARNING -  * Debugger is active!
+2026-05-18 16:51:43,346 - INFO -  * Debugger PIN: 135-961-674
+2026-05-18 16:51:51,989 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-18 16:51:52,016 - INFO -  * Detected change in 'c:\\Users\\danie\\OneDrive\\Desktop\\Ollama\\chat_app\\app1.py', reloading
+2026-05-18 16:51:52,036 - INFO -  * Restarting with stat
+2026-05-18 16:51:52,068 - INFO -  * Restarting with stat
+2026-05-18 16:51:52,363 - INFO - \u2713 Database initialized successfully
+2026-05-18 16:51:52,366 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-05-18 16:51:52,385 - INFO - \u2713 Database initialized successfully
+2026-05-18 16:51:52,386 - WARNING - python-dotenv could not parse statement starting at line 1

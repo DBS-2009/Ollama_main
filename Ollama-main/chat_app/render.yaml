@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: walter-chat-app
+    env: python
+    plan: free
+    region: oregon
+    branch: main
+    rootDir: .
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app1:app --bind 0.0.0.0:$PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.8
+      - key: LOG_WITH_GUNICORN
+        value: "true"
+      - key: SECRET_KEY
+        value: "replace-me-with-a-secure-value"
+      - key: DATABASE_URL
+        value: ""
+
+# Uncomment the database section and add it when creating a Render PostgreSQL service.
+# databases:
+#   - name: walter-chat-db
+#     plan: free
+#     region: oregon
