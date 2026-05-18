@@ -1,0 +1,8 @@
+Flask
+Flask-Login
+Flask-Limiter
+Flask-Session
+requests
+bleach
+bcrypt
+gunicorn
